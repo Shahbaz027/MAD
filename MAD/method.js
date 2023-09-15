@@ -15,7 +15,7 @@ const concatenated = str3.concat(", ", str4);
 console.log(concatenated); // Output: "React , Native"
 
 // 4 constructor
-const str5 = "My name is shahabz";
+const str5 = "My name is shahbaz";
 const constructor = str5.constructor;
 console.log(constructor); // Output: [Function: String]
 
@@ -30,7 +30,7 @@ const str7 = String.fromCharCode(...unicodeValues);
 console.log(str7); // Output: "Hello"
 
 // 7 includes()
-const str8 = "Adnan Khan";
+const str8 = "shahbaz";
 const containsHello = str8.includes("Hello");
 console.log(containsHello); // Output: false
 
